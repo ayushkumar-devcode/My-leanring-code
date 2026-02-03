@@ -4,11 +4,17 @@ This repository contains my programming learning journey from basics to advanced
 
 ## Languages
 - Python 🐍
+-html
+-javascript 
+-rust
+-go
+
 
 ## Structure
 - Basics
 - Practice programs
-- Mini projects (coming soon)
+- Mini projects
+- app building (comeing soon)
 
 ## Goal
 To become a strong developer by learning consistently and building projects.
